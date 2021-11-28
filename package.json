@@ -18,5 +18,6 @@
   "homepage": "https://github.com/stewk033/portfolio-generator#readme",
   "dependencies": {
     "inquirer": "^8.2.0"
-  }
+  },
+  "devDependencies": {}
 }
